@@ -1,0 +1,19 @@
+{
+  "name": "traffic-bot",
+  "version": "1.0.0",
+  "description": "A bot to simulate human traffic using Puppeteer.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^13.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "random-useragent": "^0.5.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
